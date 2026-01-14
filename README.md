@@ -1,47 +1,47 @@
 # 🎮 Alugames
 
-![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Project Status](https://img.shields.io/badge/Status-Concluded-brightgreen)
 
-## 📝 Descrição do Projeto
+## 📝 Project Description
 
-O projeto **Alugames** simula uma interface de uma plataforma de aluguel de jogos, provavelmente jogos de tabuleiro ou videogames. O foco principal deste projeto é a aplicação de conceitos de front-end, como a criação de uma interface de usuário atraente e a implementação de interações dinâmicas, como a alternância de status de aluguel de um item.
+The **Alugames** project simulates an interface for a game rental platform, likely for board games or video games. The main focus of this project is the application of front-end concepts, such as creating an attractive user interface and implementing dynamic interactions, like toggling the rental status of an item.
 
-É um projeto ideal para demonstrar habilidades em design responsivo e manipulação de classes e estados de elementos com JavaScript.
+It is an ideal project to demonstrate skills in responsive design and manipulation of element classes and states using JavaScript.
 
-## ✨ Funcionalidades
+## ✨ Features
 
-*   **Listagem de Jogos:** Exibição de uma lista de jogos disponíveis.
-*   **Alternância de Status:** Funcionalidade para "alugar" e "devolver" um jogo, alterando visualmente seu status na interface.
-*   **Design Responsivo:** Layout adaptável para diferentes dispositivos.
+*   **Game Listing:** Display of a list of available games.
+*   **Status Toggle:** Functionality to "rent" and "return" a game, visually changing its status on the interface.
+*   **Responsive Design:** Layout adaptable to different devices.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-O projeto foi construído utilizando as seguintes tecnologias:
+The project was built using the following technologies:
 
-| Tecnologia | Descrição |
+| Technology | Description |
 | :--- | :--- |
-| **HTML5** | Estrutura semântica da página. |
-| **CSS3** | Estilização avançada, incluindo o uso de `_reset.css` e `main.css` para um design limpo e responsivo. |
-| **JavaScript (ES6+)** | Lógica para a interação de aluguel/devolução dos jogos. |
+| **HTML5** | Semantic structure of the page. |
+| **CSS3** | Advanced styling, including the use of `_reset.css` and `main.css` for a clean and responsive design. |
+| **JavaScript (ES6+)** | Logic for the interaction of renting/returning games. |
 
-## 🚀 Como Executar
+## 🚀 How to Run
 
-Para visualizar e interagir com a plataforma Alugames, siga os passos abaixo:
+To view and interact with the Alugames platform, follow the steps below:
 
-1.  **Clone o repositório:**
+1.  **Clone the repository:**
     ```bash
     git clone https://github.com/JessyTeixeira-QA/Alugames.git
     ```
-2.  **Navegue até o diretório do projeto:**
+2.  **Navigate to the project directory:**
     ```bash
     cd Alugames
     ```
-3.  **Abra o arquivo `index.html`** no seu navegador de preferência.
+3.  **Open the `index.html` file** in your preferred browser.
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Author
 
-Desenvolvido por Jessy Teixeira.
+Developed by Jessy Teixeira.
 
-## 📄 Licença
+## 📄 License
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. (Assumindo que a licença MIT será adicionada ou já existe, caso contrário, esta linha pode ser ajustada).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details. (Assuming the MIT license will be added or already exists; otherwise, this line can be adjusted).
